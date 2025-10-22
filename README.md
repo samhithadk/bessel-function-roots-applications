@@ -42,7 +42,7 @@ We compute the first five roots of *J₀(x)*, *J₁(x)*, and *J₂(x)* using Sci
 |------------------|----------------|
 | ![Bessel functions](./images/bessel_functions_plot.png) | ![Bessel roots](./images/bessel_roots_plot.png) |
 
-**Left:** Plots of \(J_0(x)\), \(J_1(x)\), and \(J_2(x)\) showing their oscillatory behavior.  
+**Left:** Plots of *J₀(x)*, *J₁(x)*, and *J₂(x)* showing their oscillatory behavior.  
 **Right:** The same functions with their first five roots marked using SciPy’s `fsolve()`.
 
 ---

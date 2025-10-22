@@ -15,17 +15,17 @@ Course: *CS 323E – Elements of Scientific Computing*
 ---
 
 ## Overview
-
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?x^2y''%20+%20xy'%20+%20(x^2-n^2)y%20=%200" alt="Bessel differential equation" />
+  <img src="https://latex.codecogs.com/svg.image?x^{2}y''%20+%20xy'%20+%20(x^{2}-n^{2})y%20=%200" alt="Bessel differential equation" />
 </p>
 
 The Bessel differential equation defines oscillatory solutions that naturally arise in problems with cylindrical or radial symmetry.  
-We compute the first five roots of \( J_0(x), J_1(x), J_2(x) \) using SciPy’s `quad()` and `fsolve()` methods, then visualize how these roots relate to physical systems such as:
+We compute the first five roots of *J₀(x)*, *J₁(x)*, and *J₂(x)* using SciPy’s `quad()` and `fsolve()` methods, then visualize how these roots relate to physical systems such as:
 
-1. Vibrations of a circular drumhead  
-2. Frequency modulation (FM) signal synthesis  
-3. Harmonic suppression in Kepler’s planetary equation  
+1. **Vibrations of a circular drumhead**  
+2. **Frequency modulation (FM) signal synthesis**  
+3. **Harmonic suppression in Kepler’s planetary equation**
+ 
 
 ---
 

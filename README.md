@@ -1,6 +1,6 @@
 # Applications of the Roots of Bessel Functions of the First Kind
 
-This project explores how **Bessel functions of the first kind (Jn)** and their roots appear in real-world physics — from **vibration modes of circular drumheads** to **frequency modulation (FM) synthesis** and **planetary motion** in **Kepler’s equation**.  
+This project explores how Bessel functions of the first kind (Jn) and their roots appear in real-world physics, from vibration modes of circular drumheads to frequency modulation (FM) synthesis and planetary motion in Kepler’s equation.  
 Using Python’s SciPy library, we numerically compute and visualize the first five roots for orders *n = 0, 1, 2*.
 
 ---

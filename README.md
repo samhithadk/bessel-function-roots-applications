@@ -7,9 +7,9 @@ Using Python’s SciPy library, we numerically compute and visualize the first f
 
 ## Authors
 Madeline Renee Boss
-/nSamhitha Devi Kunadharaju
-/n*University of Texas at Austin*
-/n*Course: CS 323E – Elements of Scientific Computing*
+\nSamhitha Devi Kunadharaju
+\n*University of Texas at Austin*
+\n*Course: CS 323E – Elements of Scientific Computing*
 
 ---
 
